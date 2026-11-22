@@ -1,0 +1,1 @@
+when you download the zip you wanna extract the file and once you have extracted it you wanna open start_builder and then make a empty world and then at the top menu you wanna click install app and then you just gotta install it so i hopethis helps :)
